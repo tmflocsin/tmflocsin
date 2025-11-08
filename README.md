@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **tmflocsin@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1nF3j3hPxXwPbKfS8d4h1iSIQdfFr_Kbi/edit?usp=sharing&ouid=116332038636148308718&rtpof=true&sd=true](https://docs.google.com/document/d/1nF3j3hPxXwPbKfS8d4h1iSIQdfFr_Kbi/edit?usp=sharing&ouid=116332038636148308718&rtpof=true&sd=true)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tmflocsin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tmflocsin" height="30" width="40" /></a>
