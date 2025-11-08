@@ -24,7 +24,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tmflocsin&icon=0&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-[![](https://visitcount.itsvg.in/api?id=tmflocsin&icon=1&color=10)](https://visitcount.itsvg.in)
