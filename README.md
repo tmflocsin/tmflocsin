@@ -5,9 +5,6 @@
 
 - 📫 How to reach me **tmflocsin@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1nF3j3hPxXwPbKfS8d4h1iSIQdfFr_Kbi/edit?usp=sharing&ouid=116332038636148308718&rtpof=true&sd=true](https://docs.google.com/document/d/1nF3j3hPxXwPbKfS8d4h1iSIQdfFr_Kbi/edit?usp=sharing&ouid=116332038636148308718&rtpof=true&sd=true)
-
-
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tmflocsin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tmflocsin@gmail.com) 
