@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tmflocsin.notion.site/Hey-there-I-am-Trish-267b37908d2c8038896ec23b3092be07?pvs=143](https://tmflocsin.notion.site/Hey-there-I-am-Trish-267b37908d2c8038896ec23b3092be07?pvs=143)
 
-- 📫 How to reach me **tmflocsin@gmail.com**
+- 📫 Reach me at **tmflocsin@gmail.com**
 
 
 # 🌐 Socials:
