@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Trish 👋</h1>
 <h3 align="center">A detail-oriented and curious recent graduate skilled at using data to uncover root causes and identify opportunities</h3>
 
-- 👨‍💻 All of my projects are available at [https://tmflocsin.notion.site/Hey-there-I-am-Trish-267b37908d2c8038896ec23b3092be07?pvs=143](https://tmflocsin.notion.site/Hey-there-I-am-Trish-267b37908d2c8038896ec23b3092be07?pvs=143)
+- 👨‍💻 All of my projects are available at [https://tinyurl.com/tmflocsin](https://tinyurl.com/tmflocsin)
 
 - 📫 Reach me at **tmflocsin@gmail.com**
 
